@@ -11,7 +11,7 @@ import Developer from 'Andreluisoliveirac';
 class AboutMe extends Developer {
   name     = 'André Luís Oliveira';
   area    = 'Back-End';
-  job  = 'Loading...';
+  job  = 'Conselho Administrativo de Defesa Econômica - CADE';
   country = 'Brazil';
   state = 'Brasília';
 }
