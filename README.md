@@ -36,7 +36,7 @@
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisoliveirac&layout=compact&langs_count=16&theme=dark"/>
 </p>
 
-# 👩‍💼 Experiência de trabalho
+# Work Experience
 
 [<img align="left" height="50px" width="50px" alt="CADE" src="https://media.licdn.com/dms/image/C4D0BAQHDtMCsoHbUvw/company-logo_100_100/0/1671824156612?e=1693440000&v=beta&t=Ob3TpqxetAr-GEpns-c4L5kzfTVBKLnQIJ7aCyQjzlw"/>](https://www.gov.br/cade/pt-br)
 
