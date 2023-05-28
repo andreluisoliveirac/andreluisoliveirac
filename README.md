@@ -28,7 +28,7 @@
   ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 <br/>
 
-# 🔝 Linguagens mais usadas
+# Top Languages
 
 <br>
 
