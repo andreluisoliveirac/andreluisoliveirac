@@ -1,8 +1,5 @@
 ## Hello, I'm Andre 👋
 
-
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Backend Developer
