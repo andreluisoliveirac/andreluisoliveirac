@@ -1,55 +1,40 @@
 ## Hello, I'm Andre 👋
 
-## Profile
 
-<div>
-  <img align="right" alt="Git-Computador" width="200px" height="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
-</div>
+![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-```js
-import Developer from 'Andreluisoliveirac';
-class AboutMe extends Developer {
-  name     = 'André Luís Oliveira';
-  area    = 'Back-End';
-  job  = 'Conselho Administrativo de Defesa Econômica - CADE';
-  country = 'Brazil';
-  state = 'Brasília';
-}
-```
-<br>
+<h3> :woman: &nbsp;Sobre mim </h3>
 
-## Technologies
+- 🤔 &nbsp; Backend Developer
+- 💼 &nbsp; Trabalhando como **Technology Infrastructure** na <a href="[LINK DA EMPRESA](https://www.gov.br/cade/pt-br)">Administrative Council for Economic Defense</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Java e Springboot**.
 
-###  ⌨️ Languages
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-<div style="display: inline_block"><br>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Aplicações e Dados**
 
-            
-</div>
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-##
+**DevOps**
 
-###  📚 Libraries & Framework 
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<div style="display: inline_block"><br>
-</div>
+**Ferramentas de Desenvolvimento**
 
-### 🛠️ Tools & Platforms
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+<br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<a href="https://github.com/VanessaSwerts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+</a>
 
-### Workspaces
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux] href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a
-
-## 🔝 Most Used Languages
-
-<p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisoliveirac&layout=compact&langs_count=16&theme=cobalt"/>
-</p>
+<br/>
 
 ## Contacts
 
