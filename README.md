@@ -1,6 +1,6 @@
 ## Hello, I'm Andre 👋
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :woman: &nbsp;About me </h3>
 
 - 🤔 &nbsp; I'm a Back-end Developer.
 - 💼 &nbsp; **Technology Infrastructure Internship** at  <a href="[LINK DA EMPRESA](https://www.gov.br/cade/pt-br)">Administrative Council for Economic Defense</a>
