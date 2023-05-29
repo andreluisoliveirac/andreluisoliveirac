@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; I'm a Back-end Developer.
 - 💼 &nbsp; **Technology Infrastructure Internship** at  <a href="[LINK DA EMPRESA](https://www.gov.br/cade/pt-br)">Administrative Council for Economic Defense</a>
-- 🌱 &nbsp; Learning **Java e Springboot**.
+- 🌱 &nbsp; Learning **Java and Springboot**.
 
 <h3> :rocket: &nbsp; Skills </h3>
 
